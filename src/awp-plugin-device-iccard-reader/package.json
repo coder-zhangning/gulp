@@ -1,0 +1,15 @@
+{
+  "name": "awp-plugin-device-iccard-reader",
+  "version": "4.0.0",
+  "main": "index.js",
+  "files": [
+    "lib/iccard-reader.js",
+    "index.js"
+  ],
+  "modules": [
+    {
+      "name": "iccard-reader",
+      "description": "【外设】IC卡读卡器"
+    }
+  ]
+}

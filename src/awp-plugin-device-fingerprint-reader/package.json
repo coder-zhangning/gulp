@@ -1,0 +1,15 @@
+{
+  "name": "awp-plugin-device-fingerprint-reader",
+  "version": "4.0.0",
+  "main": "index.js",
+  "files": [
+    "lib/fingerprint-reader.js",
+    "index.js"
+  ],
+  "modules": [
+    {
+      "name": "fingerprint-reader",
+      "description": "【外设】指纹采集器"
+    }
+  ]
+}
